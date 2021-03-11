@@ -12,5 +12,7 @@ Convolutional layer 1 (32,3*3)🡪Pooling layer (2*2)🡪 Convolutional layer 2 
 🡪Dense layer/hidden layer (32)🡪 Dense layer/hidden layer (64)🡪 Output layer 
 The model gives an accuracy of 57% on the train dataset with a validation accuracy of 
 Approach used to increase accuracy: Data augmentation with horizontal and vertical flipping
+![image](https://user-images.githubusercontent.com/77062490/110834122-28392780-82c3-11eb-94b2-a18efa9798ba.png)
+
 # Loss vs Val_loss graph
 ![image](https://user-images.githubusercontent.com/77062490/110833433-6eda5200-82c2-11eb-965c-ee208a79e8c2.png)
