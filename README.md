@@ -10,7 +10,7 @@ This is a deep learning model which solves a classification problem with respect
 # Model architecture:
 Convolutional layer 1 (32,3*3)🡪Pooling layer (2*2)🡪 Convolutional layer 2 (64,3*3)🡪Pooling layer (2*2)🡪 Convolutional layer 3 (32,3*3)🡪
 🡪Dense layer/hidden layer (32)🡪 Dense layer/hidden layer (64)🡪 Output layer 
-The model gives an accuracy of 57% on the train dataset with a validation accuracy of 
+The model gives an accuracy of 60% on the train dataset with a validation accuracy of 57%
 Approach used to increase accuracy: Data augmentation with horizontal and vertical flipping
 ![image](https://user-images.githubusercontent.com/77062490/110836094-a8f92300-82c5-11eb-94da-7733504efabc.png)
 
